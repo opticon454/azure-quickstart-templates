@@ -3,19 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "vWANname": {
-            "value": "vwan1"
+            "value": "DEVSAT-AUE-VWAN-001"
         },
         "hub1_location": {
-            "value": "West Europe"
+            "value": "australiaeast"
         },
         "hub2_location": {
-            "value": "North Europe"
-        },
-        "Hub1_PublicCertificateDataForP2S": {
-            "value": "GEN-SELFSIGNED-CERT-CERDATA"
-        },
-        "Hub2_PublicCertificateDataForP2S": {
-            "value": "GEN-SELFSIGNED-CERT-CERDATA"
+            "value": "australiasoutheast"
         }
     }
 }
